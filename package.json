@@ -1,0 +1,33 @@
+{
+  "name": "@rmenke/postscc-gird-pulgin",
+  "version": "1.0.0",
+  "description": "because typo's...",
+  "main": "indez.js",
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romainmenke/postscc-gird-pulgin.git"
+  },
+  "keywords": [
+    "postcss-plugin",
+    "gird"
+  ],
+  "author": "Romain Menke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romainmenke/postscc-gird-pulgin/issues"
+  },
+  "homepage": "https://github.com/romainmenke/postscc-gird-pulgin#readme",
+  "devDependencies": {
+    "postcss": "^8.4.20"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.0"
+  },
+  "files": [
+    "indez.js",
+    "README.md"
+  ]
+}
